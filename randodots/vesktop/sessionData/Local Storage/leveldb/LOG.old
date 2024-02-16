@@ -1,0 +1,6 @@
+2024/02/15-23:49:38.203 24ac Reusing MANIFEST /home/judge/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2024/02/15-23:49:38.208 24ac Recovering log #12
+2024/02/15-23:49:38.209 24ac Reusing old log /home/judge/.config/vesktop/sessionData/Local Storage/leveldb/000012.log 
+2024/02/15-23:53:38.913 24ae Level-0 table #16: started
+2024/02/15-23:53:38.925 24ae Level-0 table #16: 20503 bytes OK
+2024/02/15-23:53:38.928 24ae Delete type=0 #12

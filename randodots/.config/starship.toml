@@ -21,7 +21,7 @@ error_symbol = "[• 󰅙](bold fg:red) "
 
 # Disable the package module, hiding it from the prompt completely
 [package]
-disabled = true
+disabled = false
 
 [git_branch]
 style = "bg: green"
@@ -60,13 +60,13 @@ disabled = false
 disabled = false
 
 [memory_usage]
-disabled = true
+disabled = false
 threshold = -1
 symbol = " "
 style = "bold dimmed blue"
 
 [time]
-disabled = true
+disabled = false
 format = '🕙[\[ $time \]]($style) '
 time_format = "%T"
 
